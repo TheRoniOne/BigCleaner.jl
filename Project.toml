@@ -1,0 +1,13 @@
+name = "BigCleaner"
+uuid = "4f974a48-f082-421a-8589-c9cb9896bf90"
+authors = ["Ronald Gamez"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
