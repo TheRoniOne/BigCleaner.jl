@@ -1,5 +1,4 @@
-[extras]
+[deps]
 BigCleaner = "4f974a48-f082-421a-8589-c9cb9896bf90"
 SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
-Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
