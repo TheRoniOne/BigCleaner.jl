@@ -1,5 +1,8 @@
 module BigCleaner
 
-# Write your package code here.
+include("Pipeline.jl")
+
+export Pipeline
+export add_step!
 
 end
